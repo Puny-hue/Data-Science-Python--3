@@ -1,0 +1,7 @@
+# We defiine Variables in Equal sign (=)
+
+Rules for Variables names
+* Must start with a letter (Usually lower case)
+After first letter, can use letters/numbers/underscores
+* No space or special Characters
+*Case sensitive.
